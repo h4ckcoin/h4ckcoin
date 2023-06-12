@@ -1,8 +1,12 @@
-          Hello Welcome To My World 
-           "" 亡羊补牢，为时未晚。 ""
-
 # 💫 About Me:
+       "" 亡羊补牢，为时未晚。 ""
+    - Hello Welcome To My World -
+      
+- Hello I'am baby full stack developer,
+- Licenses : Microsoft .net
+
 Full-Stack Developer
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hex3r&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
